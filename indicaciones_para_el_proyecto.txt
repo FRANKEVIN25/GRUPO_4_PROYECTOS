@@ -1,0 +1,32 @@
+Descargar la última versión del repositorio:
+* git pull origin main
+
+
+Agregar nuevos archivos:
+1. Crea el archivo en la carpeta del proyecto
+2. añadelo al git:
+	* git add nombre_del_archivo
+3. Confirma los cambios con un mensaje:
+	* git commit -m "Agregado nombre_del_archivo"
+4. Súbelo a GitHub:
+	* git push origin main
+
+
+Modificar archivos existentes:
+1. Asegúrate de tener la última versión del repositorio:
+	* git pull origin main
+2. Edita el archivo.
+3. Guarda los cambios y súbelos con:
+	*git add nombre_del_archivo
+	*git commit -m "Modificado nombre_del_archivo"
+	*git push origin main
+
+
+Eliminar archivos:
+1. Borra el archivo de tu computadora.
+2. Indícale a Git que lo elimine:
+	*git rm nombre_del_archivo
+
+3. Confirma y sube los cambios:
+	*git commit -m "Eliminado nombre_del_archivo"
+	*git push origin main
