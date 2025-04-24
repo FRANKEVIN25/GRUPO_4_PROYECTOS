@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
    <h1>Definición del Problema</h1>
 </p>
 
@@ -35,15 +35,9 @@ La contaminación en la costa peruana es el resultado del crecimiento de activid
 
 Este problema es particularmente crítico en las playas del Callao, como la Costa Azul, en el distrito de Ventanilla, donde los residuos sólidos, especialmente los plásticos, se acumulan en cantidades alarmantes. Un estudio reciente encontró en esta zona una concentración de microplásticos de aproximadamente 463.33 piezas por metro cuadrado, predominando plásticos duros como el polietileno y el polipropileno. Estos materiales, debido a su alta resistencia y durabilidad, representan una seria amenaza para los ecosistemas marinos y para la salud de las personas que habitan cerca de la zona.(1)
 
-<p align="center">
-   ![Grafica - Seccion nacional](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.001.png)
-</p>
-
-
-
-
-
-
+<div style="text-align: center;">
+   <img src="Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.001.png" alt="Grafica_Seccion Nacional" style="width: 22%;"/>
+</div>
 
 
 
@@ -53,23 +47,23 @@ El Ministerio del Ambiente (MINAM) ha señalado la urgencia de implementar soluc
 
 
 ## *MAPAS*
-<p align="center">
-   ![Mapa de Empatia](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.002.png)
-</p>
+<div style="text-align: center;">
+    <img src="Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.002.png" alt="Mapa de Empatía" style="width: 40%;"/>
+</div>
 
-<p align="center">
-   ![Journey Map](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.003.jpeg)
-</p>
+<div style="text-align: center;">
+    <img src="Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.003.jpeg" alt="Journey Map" style="width: 42%;"/>
+</div>
 
-<p align="center">
-   ![Diagrama de Ishikawa](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.004.jpeg)
-</p>
+<div style="text-align: center;">
+    <img src="Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.004.jpeg" alt="Diagrama de Ishikawa" style="width: 44%;"/>
+</div>
 
 **La persistente contaminación por plásticos en la playa Costa Azul, en Ventanilla, está dañando los ecosistemas marinos y afectando la salud pública. Los residuos plásticos, incluidos microplásticos, dañan la fauna marina y perjudican las actividades económicas locales, como la pesca y el turismo. Aunque existen esfuerzos para reducir la contaminación, la falta de soluciones efectivas y cuantificables para prevenir su llegada al mar, lo que pone en riesgo el cumplimiento de la meta 14.1 de los Objetivos de Desarrollo Sostenible.** 
 
-<p align="center">
-   ![Imagen Final](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.005.png)
-</p>
+<div style="text-align: center;">
+    <img src="Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.005.png" alt="Imagen Final" style="width: 25%;"/>
+</div>
 
 ## *Referencias bibliográficas:*
 
