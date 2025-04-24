@@ -40,7 +40,7 @@ La contaminación en la costa peruana es el resultado del crecimiento de activid
 
 Este problema es particularmente crítico en las playas del Callao, como la Costa Azul, en el distrito de Ventanilla, donde los residuos sólidos, especialmente los plásticos, se acumulan en cantidades alarmantes. Un estudio reciente encontró en esta zona una concentración de microplásticos de aproximadamente 463.33 piezas por metro cuadrado, predominando plásticos duros como el polietileno y el polipropileno. Estos materiales, debido a su alta resistencia y durabilidad, representan una seria amenaza para los ecosistemas marinos y para la salud de las personas que habitan cerca de la zona.(1)
 
-![Grafica - Seccion nacional](imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.001.png)
+![Grafica - Seccion nacional](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.001.png)
 
 
 
@@ -59,7 +59,7 @@ El Ministerio del Ambiente (MINAM) ha señalado la urgencia de implementar soluc
 
 **MAPAS**
 
-![Mapa de Empatia](imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.002.png)
+![Mapa de Empatia](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.002.png)
 
 
 
@@ -81,13 +81,13 @@ El Ministerio del Ambiente (MINAM) ha señalado la urgencia de implementar soluc
 
 
 
-![Journey Map](imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.003.jpeg)
+![Journey Map](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.003.jpeg)
 
-![Diagrama de Ishikawa](imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.004.jpeg)
+![Diagrama de Ishikawa](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.004.jpeg)
 
 **La persistente contaminación por plásticos en la playa Costa Azul, en Ventanilla, está dañando los ecosistemas marinos y afectando la salud pública. Los residuos plásticos, incluidos microplásticos, dañan la fauna marina y perjudican las actividades económicas locales, como la pesca y el turismo. Aunque existen esfuerzos para reducir la contaminación, la falta de soluciones efectivas y cuantificables para prevenir su llegada al mar, lo que pone en riesgo el cumplimiento de la meta 14.1 de los Objetivos de Desarrollo Sostenible.** 
 
-![Imagen Final](imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.005.png)
+![Imagen Final](Imagenes/Aspose.Words.f1e38836-af00-458b-91ca-b7c56cf4b50f.005.png)
 
 
 
