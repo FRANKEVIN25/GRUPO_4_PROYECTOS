@@ -23,9 +23,8 @@ Este módulo tiene como finalidad introducir al estudiante en el uso de Onshape 
 - **Operaciones básicas**: Extrude, Revolve y Boolean.
 - **Apariencia y Material**: Aplicar colores y materiales.
 - **Diseño avanzado**: Sweep, Loft, planos de referencia y dependencias.
-- **Features aplicadas**: Fillet, Chamfer, Shell, Hole.
 - **Patterning**: Patrones lineales, circulares, por curva y espejado.
-- **Ejercicios prácticos**: Control Arm, Reducer Coupling, Funnel, Rocket Guidance Reflector.
+
 
 ---
 
@@ -34,7 +33,7 @@ Este módulo tiene como finalidad introducir al estudiante en el uso de Onshape 
 - **Creación de ensamblajes**: Mover piezas al origen, añadir componentes.
 - **Mates**: Tipos de mates, conectores explícitos e implícitos.
 - **Trabajo con ensamblajes**: Visualización de movimiento, estructura, BOM, ocultar/mostrar elementos.
-- **Ejercicios prácticos**: Basic e Intermediate Assembly.
+
 
 ---
 
@@ -60,8 +59,11 @@ Este módulo tiene como finalidad introducir al estudiante en el uso de Onshape 
 
 A continuación, se presentan algunas capturas de pantalla tomadas durante el desarrollo del módulo:
 
-![captura 1](imagenes/Captura\ de\ pantalla\ 2025-05-01\ 203730.png)
-![captura 2](imagenes/Captura\ de\ pantalla\ 2025-05-01\ 224703.png)
-![captura 3](imagenes/Captura\ de\ pantalla\ 2025-05-01\ 225447.png)
-![captura 4](imagenes/Captura\ de\ pantalla\ 2025-05-01\ 230813.png)
-
+![Captura 1](imagenes/Captura%20de%20pantalla%202025-05-01%20203730.png)
+![Captura 2](imagenes/Captura%20de%20pantalla%202025-05-01%20224703.png)
+![Captura 3](imagenes/Captura%20de%20pantalla%202025-05-01%20225447.png)
+![Captura 4](imagenes/Captura%20de%20pantalla%202025-05-01%20230813.png)
+![Captura 5](imagenes/Captura%20de%20pantalla%202025-05-01%20232722.png)
+![Captura 6](imagenes/Captura%20de%20pantalla%202025-05-01%20233735.png)
+![Captura 7](imagenes/Captura%20de%20pantalla%202025-05-02%20010816.png)
+![Captura 8](imagenes/Captura%20de%20pantalla%202025-05-02%20015839.png)
