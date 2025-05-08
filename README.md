@@ -4,13 +4,13 @@
 
 
 ### **Descripción:**
-PlastiClean es un proyecto tecnológico, educativo y sostenible que busca hacer frente a uno de los desafíos ambientales más urgentes: la contaminación por microplásticos en ecosistemas acuáticos. Desarrollado con Arduino y sensores de turbidez, este dispositivo compacto y autónomo detecta y filtra partículas plásticas en el agua, utilizando un sistema de bombeo y un filtro multicapa elaborado con materiales ecológicos y reciclados.
+PlastiClean es un proyecto de innovación tecnológica, educativa y sostenible diseñado para enfrentar la creciente amenaza de la contaminación por microplásticos en los ecosistemas acuáticos. Este dispositivo compacto y autónomo, desarrollado con Arduino y sensores de turbidez, detecta y filtra microplásticos en el agua utilizando un sistema automatizado con bomba y un filtro multicapa hecho con materiales ecológicos como esponja de melamina, malla fina y carbón activado.
 
-La iniciativa nace como respuesta al creciente impacto de los residuos plásticos en las costas del Perú y del mundo, afectando gravemente la biodiversidad marina, la salud humana y las economías locales. A través de PlastiClean, no solo se propone una solución práctica para mitigar este problema, sino también una herramienta educativa accesible y replicable que promueve la conciencia ambiental y el uso responsable de la tecnología.
+La iniciativa se alinea directamente con el Objetivo de Desarrollo Sostenible N.º 14: Vida submarina, que busca conservar y utilizar de manera sostenible los océanos, los mares y los recursos marinos. En particular, contribuye a la meta 14.1, que plantea reducir significativamente la contaminación marina, especialmente la causada por actividades terrestres, incluidos los desechos sólidos y microplásticos.
 
-Este repositorio contiene toda la documentación, código fuente, esquemas electrónicos y materiales necesarios para construir, implementar y escalar PlastiClean en distintos entornos.
+En el contexto peruano, donde los residuos plásticos afectan gravemente la biodiversidad marina, la salud humana y la economía pesquera, PlastiClean no solo ofrece una solución práctica, sino también una herramienta educativa replicable que promueve la conciencia ambiental y el compromiso ciudadano.
 
-" "
+Este repositorio contiene la documentación técnica, el código fuente, esquemas electrónicos y materiales necesarios para construir e implementar el prototipo, fomentando el aprendizaje abierto y la acción ambiental desde la tecnología.
 
 ### **Tabla de contenidos:**
 
