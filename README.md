@@ -1,27 +1,106 @@
-﻿# **_Bienvenidos al repositorio del Grupo 6 del curso de Fundamentos de Diseño 2025-I_**
+# 🌍 UNIVERSIDAD PERUANA CAYETANO HEREDIA  
+## 🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú  
+**Curso:** Fundamentos de Diseño – Grupo 6
 
-### **Proyecto: PlastiClean – Filtro autónomo para microplásticos en el agua** 
+---
 
+## 📷 Vista del proyecto (Imagen referencial)
 
-### **Descripción:**
-PlastiClean es un proyecto de innovación tecnológica, educativa y sostenible diseñado para enfrentar la creciente amenaza de la contaminación por microplásticos en los ecosistemas acuáticos. Este dispositivo compacto y autónomo, desarrollado con Arduino y sensores de turbidez, detecta y filtra microplásticos en el agua utilizando un sistema automatizado con bomba y un filtro multicapa hecho con materiales ecológicos como esponja de melamina, malla fina y carbón activado.
+![Vista del prototipo](imagenes/prototipo.jpg) <!-- Coloca tu imagen en una carpeta llamada 'imagenes' -->
 
-La iniciativa se alinea directamente con el Objetivo de Desarrollo Sostenible N.º 14: Vida submarina, que busca conservar y utilizar de manera sostenible los océanos, los mares y los recursos marinos. En particular, contribuye a la meta 14.1, que plantea reducir significativamente la contaminación marina, especialmente la causada por actividades terrestres, incluidos los desechos sólidos y microplásticos.
+---
 
-En el contexto peruano, donde los residuos plásticos afectan gravemente la biodiversidad marina, la salud humana y la economía pesquera, PlastiClean no solo ofrece una solución práctica, sino también una herramienta educativa replicable que promueve la conciencia ambiental y el compromiso ciudadano.
+## 📘 Introducción
 
-Este repositorio contiene la documentación técnica, el código fuente, esquemas electrónicos y materiales necesarios para construir e implementar el prototipo, fomentando el aprendizaje abierto y la acción ambiental desde la tecnología.
+¡Bienvenidos al sitio oficial de nuestro proyecto!
 
-### **Tabla de contenidos:**
+Este trabajo fue desarrollado como parte del curso *Fundamentos de Diseño*, y se inspira en una problemática ambiental urgente: la acumulación de residuos sólidos en las playas arenosas del litoral peruano.  
+Nuestro objetivo es contribuir activamente al **Objetivo de Desarrollo Sostenible (ODS) Nº 14: Vida Submarina**, ayudando a proteger los ecosistemas marinos antes de que los residuos lleguen al mar.
 
+---
 
+## 📑 Tabla de Contenidos
+- [🌟 Misión](#misión)
+- [👁️ Visión](#visión)
+- [🌊 ODS 14: Vida submarina](#ods-14-vida-submarina)
+- [🎯 Objetivo general del proyecto](#objetivo-general-del-proyecto)
+- [✅ Objetivo específico](#objetivo-específico)
+- [📌 Justificación](#justificación)
+- [💡 Qué es lo que nos impulsa](#qué-es-lo-que-nos-impulsa)
+- [🧑‍💻 Quiénes somos](#quiénes-somos)
+- [📚 Integrantes del equipo](#integrantes-del-equipo)
 
-### **Integrantes:**
+---
 
-- Leonardo Javier Nunton Fajardo (Administrador del repositorio) - leonardo.nunton@upch.pe
+## 🌟 Misión
+Diseñar y desarrollar una solución robótica autónoma que permita recolectar residuos sólidos visibles en playas arenosas, contribuyendo a la protección de los ecosistemas marinos y reduciendo la contaminación costera mediante el uso de tecnologías accesibles y sostenibles.
 
-- Héctor Raúl Huarcaya Chipana (Administrador de manufactura digital) - hector.huarcaya@upch.pe
+---
 
-- Emmy Abigail Lopez Cueva (Administradora del prototipado electrónico)- emmy.lopez@upch.pe
+## 👁️ Visión
+Convertirnos en un referente en soluciones tecnológicas para la conservación ambiental, demostrando que la innovación puede ser alcanzable, funcional y útil para mitigar la contaminación en zonas costeras sin depender de tecnologías complejas o costosas.
 
-- Angelica Sofia Perez Poma (Administradora de redacción y fuentes bibliográficas) - angelica.perez@upch.pe
+---
+
+## 🌊 ODS 14: Vida submarina
+
+![ODS 14](imagenes/ods14.png)
+
+**Meta 14.1:**  
+> “De aquí a 2025, prevenir y reducir significativamente la contaminación marina de todo tipo, en particular la producida por actividades realizadas en tierra, incluidos los detritos marinos y la polución por nutrientes.”
+
+---
+
+## 🎯 Objetivo general del proyecto
+Diseñar y desarrollar un prototipo funcional de robot terrestre autónomo que recolecte residuos sólidos en playas arenosas, con el fin de prevenir que estos desechos lleguen al mar y afecten la vida marina, contribuyendo así a reducir la contaminación marina desde su origen terrestre.
+
+---
+
+## ✅ Objetivo específico
+Reducir la presencia de residuos sólidos —especialmente plásticos y materiales de un solo uso— en zonas costeras mediante la implementación de un robot recolector, con el propósito de evitar que dichos residuos se desplacen hacia el océano y contaminen los ecosistemas marinos.
+
+---
+
+## 📌 Justificación
+El 80 % de la contaminación marina proviene de tierra firme. La acumulación de basura en las playas del litoral peruano es una de las principales fuentes de contaminación oceánica.  
+Al evitar que estos residuos lleguen al mar, este proyecto contribuye directamente a la conservación de la biodiversidad marina, al turismo sostenible y a la salud humana.
+
+Nuestro robot busca ser una herramienta accesible, escalable y energéticamente eficiente, que fomente una gestión responsable de las playas.
+
+---
+
+## 💡 ¿Qué es lo que nos impulsa?
+Nos mueve la preocupación por la creciente contaminación de las playas, la falta de personal constante para su limpieza y las graves consecuencias que estos residuos generan en la fauna marina y la salud humana.  
+Queremos ofrecer una alternativa **autónoma y sostenible** que ayude a reducir este impacto de forma continua y eficiente.
+
+---
+
+## 🧑‍💻 ¿Quiénes somos?
+
+Somos un equipo de cuatro estudiantes de la Universidad Peruana Cayetano Heredia comprometidos con la conservación del medio ambiente.  
+Combinamos nuestros conocimientos en tecnología, informática y ciencias ambientales para aportar soluciones sostenibles a los problemas que afectan nuestros ecosistemas costeros.
+
+Nuestro proyecto nace del deseo de reducir la contaminación marina desde su origen: la acumulación de residuos en playas.  
+A través del desarrollo de un **robot recolector autónomo**, buscamos generar un impacto positivo en la salud de los océanos y contribuir al cumplimiento del ODS 14.1.
+
+---
+
+## 📚 Integrantes del equipo
+
+- **Leonardo Javier Nunton Fajardo**  
+  _Administrador del repositorio_  
+  📧 leonardo.nunton@upch.pe  
+
+- **Héctor Raúl Huarcaya Chipana**  
+  _Administrador de fabricación digital_  
+  📧 hector.huarcaya@upch.pe  
+
+- **Emmy Abigail Lopez Cueva**  
+  _Administradora del prototipado electrónico_  
+  📧 emmy.lopez@upch.pe  
+
+- **Angélica Sofía Pérez Poma**  
+  _Administradora de redacción y fuentes bibliográficas_  
+  📧 angelica.perez@upch.pe  
+
+---
