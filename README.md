@@ -1,7 +1,20 @@
-# 🌍 UNIVERSIDAD PERUANA CAYETANO HEREDIA  
-## 🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú  
-**Curso:** Fundamentos de Diseño – Grupo 6
+<table>
+  <tr>
+    <td><img src="Imagenes/logo_upch.jpeg" alt="Logo UPCH" width="100"></td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <h1>UNIVERSIDAD PERUANA CAYETANO HEREDIA</h1>
+    </td>
+  </tr>
+</table>
 
+<div style="text-align:center; font-weight:bold; margin-top:10px; font-family: 'Arial', sans-serif;">
+  <span style="display:inline-block; transform: rotate(-5deg);">
+    **Curso:** Fundamentos de Diseño – Grupo 6
+  </span>
+</div>
+
+
+## 🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú  
 ---
 
 
