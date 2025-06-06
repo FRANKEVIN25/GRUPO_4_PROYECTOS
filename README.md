@@ -7,19 +7,19 @@
   </tr>
 </table>
 
-<div style="text-align:center; font-weight:bold; margin-top:10px; font-family: 'Arial', sans-serif;">
-  <span style="display:inline-block; transform: rotate(-5deg);">
-    **Curso:** Fundamentos de Diseño – Grupo 6
-  </span>
+<div style="text-align: center; font-weight: bold;">
+  Curso: Fundamentos de Diseño – Grupo 6
 </div>
 
 
-## 🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú  
+
+##  ~V Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú
 ---
 
+<div style="text-align: center;">
+  <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="300px" />
+</div>
 
-
-![Imagen referencial](Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg)
 
 ---
 
@@ -57,7 +57,9 @@ Convertirnos en un referente en soluciones tecnológicas para la conservación a
 
 ## 🌊 ODS 14: Vida submarina
 
-![ODS 14](Fundamentos_De_Diseño/Imagenes/ODS14.png)
+<div style="text-align: center;">
+  <img src="Fundamentos_De_Diseño/Imagenes/ODS14.png" alt="ODS 14" width="300px" />
+</div>
 
 **Meta 14.1:**  
 > “De aquí a 2025, prevenir y reducir significativamente la contaminación marina de todo tipo, en particular la producida por actividades realizadas en tierra, incluidos los detritos marinos y la polución por nutrientes.”
