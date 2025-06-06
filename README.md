@@ -7,13 +7,11 @@
   </tr>
 </table>
 
-<div style="text-align: center; font-weight: bold;">
-  Curso: Fundamentos de Diseño – Grupo 6
-</div>
+<p align="center">
+	<h3>Fundamentos de Diseño – Grupo 6</h3>
+</p>
 
-
-
-##  ~V Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú
+##  🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú
 
 <p align="center">
   <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="400px" />
