@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="Imagenes/logo_upch.jpeg" alt="Logo UPCH" width="100"></td>
+    <td><img src="Fundamentos_De_Diseño/Imagenes/logo_upch.jpeg" alt="Logo UPCH" width="100"></td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1>UNIVERSIDAD PERUANA CAYETANO HEREDIA</h1>
     </td>
