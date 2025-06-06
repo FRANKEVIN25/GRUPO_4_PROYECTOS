@@ -4,9 +4,9 @@
 
 ---
 
-## 📷 Vista del proyecto (Imagen referencial)
 
-![Vista del prototipo](imagenes/prototipo.jpg) <!-- Coloca tu imagen en una carpeta llamada 'imagenes' -->
+
+![Imagen referencial](Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Convertirnos en un referente en soluciones tecnológicas para la conservación a
 
 ## 🌊 ODS 14: Vida submarina
 
-![ODS 14](imagenes/ods14.png)
+![ODS 14](Fundamentos_De_Diseño/Imagenes/ODS14.png)
 
 **Meta 14.1:**  
 > “De aquí a 2025, prevenir y reducir significativamente la contaminación marina de todo tipo, en particular la producida por actividades realizadas en tierra, incluidos los detritos marinos y la polución por nutrientes.”
