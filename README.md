@@ -14,14 +14,11 @@
 
 
 ##  ~V Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú
----
 
-<div style="text-align: center;">
-  <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="300px" />
-</div>
+<p align="center">
+  <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="400px" />
+</p>
 
-
----
 
 ## 📘 Introducción
 
