@@ -12,7 +12,7 @@
 ##  🐢 Sistema de Monitoreo para la Eclosión de Tortugas Marinas
 
 <p align="center">
-  <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="400px" />
+  <img src="Fundamentos_De_Diseño/Imagenes/tortuga.webp" alt="Imagen referencial" width="400px" />
 </p>
 
 
