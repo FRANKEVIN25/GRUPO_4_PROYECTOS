@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="Fundamentos_De_Diseño/Imagenes/logo_upch.jpeg" alt="Logo UPCH" width="100"></td>
+    <td><img src="Fundamentos_De_Diseño/Imagenes/logo_upch.jpg" alt="Logo UPCH" width="100"></td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1>UNIVERSIDAD PERUANA CAYETANO HEREDIA</h1>
     </td>
@@ -47,7 +47,7 @@ Convertirnos en un referente en el uso de tecnología para la conservación de e
 ## 🌊 ODS 14: Vida submarina
 
 <p align="center">
-  <img src="Fundamentos_De_Diseño/Imagenes/ODS14.png" alt="ODS 14" width="300px" />
+  <img src="Fundamentos_De_Diseño/Imagenes/ODS14.webp" alt="ODS 14" width="300px" />
 </p>
 
 
