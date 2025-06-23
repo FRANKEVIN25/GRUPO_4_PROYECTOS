@@ -9,7 +9,7 @@
 
 <h3 align="center">FUNDAMENTOS DE DISEÑO – GRUPO 6</h3>
 
-##  🤖 Sistema Recolector de Residuos Sólidos en las Playas Arenosas del Perú
+##  🐢 Sistema de Monitoreo para la Eclosión de Tortugas Marinas
 
 <p align="center">
   <img src="Fundamentos_De_Diseño/Imagenes/0.imagen_referencial.jpg" alt="Imagen referencial" width="400px" />
@@ -20,9 +20,9 @@
 
 ¡Bienvenidos al sitio oficial de nuestro proyecto!
 
-Este trabajo fue desarrollado como parte del curso *Fundamentos de Diseño*, y se inspira en una problemática ambiental urgente: la acumulación de residuos sólidos en las playas arenosas del litoral peruano.  
-Nuestro objetivo es contribuir activamente al **Objetivo de Desarrollo Sostenible (ODS) Nº 14: Vida Submarina**, ayudando a proteger los ecosistemas marinos antes de que los residuos lleguen al mar.
+Este trabajo fue desarrollado como parte del curso Fundamentos de Diseño, con el objetivo de responder a una problemática ambiental urgente: la alta mortalidad de crías de tortugas marinas en las playas del litoral norte del Perú, debido a la falta de detección oportuna de la eclosión.
 
+Inspirados en el ODS 14: Vida Submarina, buscamos contribuir a la conservación de los ecosistemas marinos mediante una solución que permita a los cuidadores y voluntarios intervenir a tiempo durante el nacimiento de las crías, aumentando así sus probabilidades de supervivencia.
 
 ## 📑 Tabla de Contenidos
 - [🌟 Misión](#misión)
@@ -37,11 +37,11 @@ Nuestro objetivo es contribuir activamente al **Objetivo de Desarrollo Sostenibl
 
 
 ## 🌟 Misión
-Diseñar y desarrollar una solución robótica autónoma que permita recolectar residuos sólidos visibles en playas arenosas, contribuyendo a la protección de los ecosistemas marinos y reduciendo la contaminación costera mediante el uso de tecnologías accesibles y sostenibles.
+Desarrollar una herramienta tecnológica accesible que permita detectar, de manera automatizada y oportuna, el momento de eclosión de tortugas marinas en nidos naturales, para alertar a los cuidadores responsables y facilitar una intervención inmediata.
 
 
 ## 👁️ Visión
-Convertirnos en un referente en soluciones tecnológicas para la conservación ambiental, demostrando que la innovación puede ser alcanzable, funcional y útil para mitigar la contaminación en zonas costeras sin depender de tecnologías complejas o costosas.
+Convertirnos en un referente en el uso de tecnología para la conservación de especies marinas vulnerables, demostrando que las soluciones simples pueden generar un gran impacto en la protección de la biodiversidad costera.
 
 
 ## 🌊 ODS 14: Vida submarina
@@ -51,36 +51,31 @@ Convertirnos en un referente en soluciones tecnológicas para la conservación a
 </p>
 
 
-**Meta 14.1:**  
-> “De aquí a 2025, prevenir y reducir significativamente la contaminación marina de todo tipo, en particular la producida por actividades realizadas en tierra, incluidos los detritos marinos y la polución por nutrientes.”
+**Meta 14.2:**  
+> "Gestionar y proteger sosteniblemente los ecosistemas marinos y costeros para evitar efectos adversos importantes, incluso fortaleciendo su resiliencia, y adoptar medidas para restaurarlos a fin de restablecer la salud y la productividad de los océanos."
 
 
 ## 🎯 Objetivo general del proyecto
-Diseñar y desarrollar un prototipo funcional de robot terrestre autónomo que recolecte residuos sólidos en playas arenosas, con el fin de prevenir que estos desechos lleguen al mar y afecten la vida marina, contribuyendo así a reducir la contaminación marina desde su origen terrestre.
+Diseñar un sistema automatizado de detección y alerta temprana que permita identificar el momento en que las tortugas marinas comienzan a emerger de sus nidos, facilitando una respuesta rápida por parte del personal encargado de su protección.
 
 ## ✅ Objetivo específico
-Reducir la presencia de residuos sólidos —especialmente plásticos y materiales de un solo uso— en zonas costeras mediante la implementación de un robot recolector, con el propósito de evitar que dichos residuos se desplacen hacia el océano y contaminen los ecosistemas marinos.
-
+Implementar una solución tecnológica basada en sensores y visión artificial que active una alerta remota cuando se detecte el nacimiento de tortugas marinas en playas de anidación del norte peruano.
 
 ## 📌 Justificación
-El 80 % de la contaminación marina proviene de tierra firme. La acumulación de basura en las playas del litoral peruano es una de las principales fuentes de contaminación oceánica.  
-Al evitar que estos residuos lleguen al mar, este proyecto contribuye directamente a la conservación de la biodiversidad marina, al turismo sostenible y a la salud humana.
+Las crías de tortuga marina enfrentan múltiples amenazas al momento de eclosionar, como la desorientación por luz artificial, los depredadores y la interferencia humana. En muchas playas del norte del Perú, donde se ha identificado recientemente la presencia de nidos, no existen mecanismos que permitan detectar de manera oportuna este evento.
 
-Nuestro robot busca ser una herramienta accesible, escalable y energéticamente eficiente, que fomente una gestión responsable de las playas.
+Este proyecto propone una solución tecnológica accesible que permita activar una alerta inmediata cuando ocurre una eclosión, facilitando una respuesta rápida por parte de los cuidadores. De esta forma, se busca incrementar la tasa de supervivencia de las tortugas y contribuir a los esfuerzos de conservación en zonas vulnerables.
 
 
 ## 💡 ¿Qué es lo que nos impulsa?
-Nos mueve la preocupación por la creciente contaminación de las playas, la falta de personal constante para su limpieza y las graves consecuencias que estos residuos generan en la fauna marina y la salud humana.  
-Queremos ofrecer una alternativa **autónoma y sostenible** que ayude a reducir este impacto de forma continua y eficiente.
-
+Nos motiva el deseo de proteger a una de las especies más emblemáticas y amenazadas del ecosistema marino peruano. Queremos brindar a los voluntarios de conservación una herramienta útil, fácil de usar y eficaz, que marque una diferencia real en el momento más crítico del ciclo de vida de las tortugas: su nacimiento.
 
 ## 🧑‍💻 ¿Quiénes somos?
 
 Somos un equipo de cuatro estudiantes de la Universidad Peruana Cayetano Heredia comprometidos con la conservación del medio ambiente.  
 Combinamos nuestros conocimientos en tecnología, informática y ciencias ambientales para aportar soluciones sostenibles a los problemas que afectan nuestros ecosistemas costeros.
 
-Nuestro proyecto nace del deseo de reducir la contaminación marina desde su origen: la acumulación de residuos en playas.  
-A través del desarrollo de un **robot recolector autónomo**, buscamos generar un impacto positivo en la salud de los océanos y contribuir al cumplimiento del ODS 14.1.
+Este proyecto nace de la reflexión sobre el impacto del ser humano en la biodiversidad marina y de la necesidad urgente de actuar.
 
 
 ## 📚 Integrantes del equipo
