@@ -86,6 +86,6 @@ Este proyecto nace de la reflexión sobre el impacto del ser humano en la biodiv
 
 - **Emmy Abigail Lopez Cueva**    
 
-- **Nathalia**   
+- **Nathalia Robledo**   
 
 ---
