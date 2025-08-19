@@ -80,20 +80,12 @@ Este proyecto nace de la reflexión sobre el impacto del ser humano en la biodiv
 
 ## 📚 Integrantes del equipo
 
-- **Leonardo Javier Nunton Fajardo**  
-  _Administrador del repositorio_  
-  📧 leonardo.nunton@upch.pe  
+- **Frank Jauregui Bendezu** 
 
-- **Héctor Raúl Huarcaya Chipana**  
-  _Administrador de fabricación digital_  
-  📧 hector.huarcaya@upch.pe  
+- **Luis Martin Valenzuela Valer**   
 
-- **Emmy Abigail Lopez Cueva**  
-  _Administradora del prototipado electrónico_  
-  📧 emmy.lopez@upch.pe  
+- **Emmy Abigail Lopez Cueva**    
 
-- **Angélica Sofía Pérez Poma**  
-  _Administradora de redacción y fuentes bibliográficas_  
-  📧 angelica.perez@upch.pe  
+- **Nathalia**   
 
 ---
