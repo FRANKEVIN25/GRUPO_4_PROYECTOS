@@ -30,13 +30,12 @@ En el panel de simulacion vamos a la seccion de materiales y asginamos el materi
 ### Paso 6: Visualizar los Resultados
 1. Una vez que el análisis esté completo, los resultados se mostrarán en la interfaz.
    
-2. Puedes cambiar entre diferentes tipos de resultados:
+2. Podemos cambiar entre diferentes tipos de resultados:
    - **Esfuerzo de Von Mises**: Muestra la distribución de los esfuerzos en el modelo, usando colores para indicar las zonas de mayor y menor esfuerzo.
    - **Desplazamiento**: Muestra cómo se deforma el modelo bajo la carga aplicada.
 
 3. En el filtro de resultados, selecciona **Von Mises Stress** para ver el mapa de esfuerzos.
-   
-4. Usa el **Escalador** para ajustar la intensidad del color según lo necesites. Los colores van de **rojo (alto esfuerzo)** a **azul (bajo esfuerzo)**.
+   se ve el **Escalador** para ajustar la intensidad del color según lo necesites. Los colores van de **rojo (alto esfuerzo)** a **azul (bajo esfuerzo)**.
 
 ---
 <img width="1917" height="902" alt="4" src="https://github.com/user-attachments/assets/30517081-d31a-4db4-af93-b898b4f445fc" />
