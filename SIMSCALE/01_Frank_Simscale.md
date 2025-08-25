@@ -62,7 +62,7 @@ Simulación de esfuerzos mecánicos en una tapa de caja tipo 125B, realizada med
 
 ## 🖼️ Captura de simulación
 
-![Simulación Estática - Von Mises](Captura%20de%20pantalla%202025-08-25%20150529.png)
+![Simulación Estática - Von Mises](<img width="1919" height="924" alt="Captura de pantalla 2025-08-25 150529" src="https://github.com/user-attachments/assets/72c3ff8e-5697-40ed-8781-7bb90e3cd00e" />)
 
 > Imagen exportada desde SimScale mostrando los esfuerzos de Von Mises en el modelo.
 
@@ -73,7 +73,3 @@ Simulación de esfuerzos mecánicos en una tapa de caja tipo 125B, realizada med
 La tapa de PLA resiste adecuadamente la carga aplicada sin sobrepasar los límites de esfuerzo del material, lo cual valida su uso en aplicaciones donde estas condiciones están presentes.
 
 ---
-
-## 🗂️ Archivos relacionados
-
-<img width="1919" height="924" alt="Captura de pantalla 2025-08-25 150529" src="https://github.com/user-attachments/assets/72c3ff8e-5697-40ed-8781-7bb90e3cd00e" />
