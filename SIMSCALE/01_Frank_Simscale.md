@@ -64,6 +64,7 @@ Simulación de esfuerzos mecánicos en una tapa de caja tipo 125B, realizada med
 
 <img width="1919" height="924" alt="Captura de pantalla 2025-08-25 150529" src="https://github.com/user-attachments/assets/72c3ff8e-5697-40ed-8781-7bb90e3cd00e" />
 <img width="1913" height="926" alt="Captura de pantalla 2025-08-25 162731" src="https://github.com/user-attachments/assets/1f3e8b86-6978-4278-81af-3f758bf01c2b" />
+<img width="1919" height="907" alt="Captura de pantalla 2025-08-25 162902" src="https://github.com/user-attachments/assets/b585086c-f61f-4761-b440-e14d35697a74" />
 
 ---
 
