@@ -1,4 +1,4 @@
-# Análisis Estático - Tapa de Caja 125B
+# Trabajo de Proyectos de Ingeniería 1
 
 ## Proyecto
 Simulación de esfuerzos mecánicos en una tapa de caja tipo 125B, realizada mediante análisis de elementos finitos (FEA) para validar el comportamiento estructural bajo una carga puntual.
