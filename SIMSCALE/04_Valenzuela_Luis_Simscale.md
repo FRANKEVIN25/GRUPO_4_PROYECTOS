@@ -1,4 +1,4 @@
-# Análisis de Esfuerzo en modelo 3D Slimscale
+# Análisis de Esfuerzo en modelo 3D Simscale
 
 ### Paso 1: Crear un Nuevo Estudio de Simulación
 1. Importamos un documento de Onshape 
@@ -41,3 +41,5 @@ En el panel de simulacion vamos a la seccion de materiales y asginamos el materi
 <img width="1917" height="902" alt="4" src="https://github.com/user-attachments/assets/30517081-d31a-4db4-af93-b898b4f445fc" />
 
 <img width="1917" height="908" alt="5" src="https://github.com/user-attachments/assets/1a0c44eb-4a15-4e6b-93ac-3a3f031090c9" />
+
+**VALENZUELA VALER LUIS MARTIN**
