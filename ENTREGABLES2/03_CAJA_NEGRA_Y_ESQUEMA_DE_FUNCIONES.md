@@ -16,8 +16,9 @@
 </p><img width="1544" height="923" alt="Captura de pantalla 2025-08-26 214835" src="https://github.com/user-attachments/assets/c0452d19-5abe-48db-bcf7-869ee8fefb24" />
 <p align="center">
 
+<hr>
+
 <h1 align="center">DIAGRAMA DE FLUJO (DASHBOARD)</h1>
-![DIAGRAMA](https://github.com/user-attachments/assets/65c6d9b3-d47e-41a9-8243-db2c39ffcef0)
 <p align="center">
-
-
+  <img width="336" height="871" alt="Captura de pantalla 2025-08-26 222946" src="https://github.com/user-attachments/assets/feb6090b-441f-4c5c-a551-a254d947f99c" />
+</p>
