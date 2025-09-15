@@ -13,8 +13,12 @@
 </p>
 
 <h1 align="center">ESQUEMA DE FUNCIONES</h1>
-</p><img width="1544" height="923" alt="Captura de pantalla 2025-08-26 214835" src="../Fundamentos_De_Diseño/Imagenes/esquema_funciones_pi.png" />
 <p align="center">
+  <img src="../Fundamentos_De_Diseño/Imagenes/esquema_funciones_pi.png" 
+       alt="Esquema de Funciones" 
+       width="1544" 
+       height="923">
+</p>
 
 <hr>
 
