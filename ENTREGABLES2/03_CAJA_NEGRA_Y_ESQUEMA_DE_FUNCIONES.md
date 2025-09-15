@@ -14,7 +14,7 @@
 
 <h1 align="center">ESQUEMA DE FUNCIONES</h1>
 <p align="center">
-  <img src="../Fundamentos_De_Dise%C3%B1o/Imagenes/esquema_funciones_pi.png" 
+  <img src="https://raw.githubusercontent.com/FRANKEVIN25/GRUPO_4_PROYECTOS/main/Fundamentos_De_Dise%C3%B1o/Imagenes/esquema_de_funciones_pi.png" 
        alt="Esquema de Funciones" 
        width="1544" 
        height="923">
