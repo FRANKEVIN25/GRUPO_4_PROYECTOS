@@ -52,8 +52,8 @@ Para realizar la predicción se siguieron los siguientes pasos:
 El modelo de regresión lineal con lags y dummies de mes logró capturar la tendencia general y la estacionalidad de CO en Florida. Se observan algunas diferencias entre predicción y realidad, especialmente en meses con picos más pronunciados (ej. julio y noviembre), lo que sugiere que podrían explorarse modelos más complejos (polinómicos o basados en series de tiempo) para mejorar la precisión.
 
 ## Referencias
-[1] U.S. Environmental Protection Agency, “Carbon Monoxide (CO) Pollution,” 2024. [Online]. Available: https://www.epa.gov/co-pollution  
+[1] U.S. Environmental Protection Agency, “Carbon Monoxide (CO) Pollution,” 2024.  
 
 [2] J. Han, M. Kamber, and J. Pei, *Data Mining: Concepts and Techniques*, 3rd ed. Morgan Kaufmann, 2011.  
 
-[3] Scikit-learn Developers, “Linear Regression,” [Online]. Available: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+[3] American Lung Association, “State of the Air 2024,” 2024.
