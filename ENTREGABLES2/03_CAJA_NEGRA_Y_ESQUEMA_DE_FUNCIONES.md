@@ -11,10 +11,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d698bb9d-291a-4095-aad3-5c79ae868759" alt="Caja Negra - Dashboard" width="70%">
 </p>
-
+<img width="1920" height="1080" alt="Control (1)" src="https://github.com/user-attachments/assets/de8e8976-a5ec-46f2-815b-a06f5258955e" />
 <h1 align="center">ESQUEMA DE FUNCIONES</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FRANKEVIN25/GRUPO_4_PROYECTOS/main/Fundamentos_De_Dise%C3%B1o/Imagenes/esquema_de_funciones_pi.png" 
+
        alt="Esquema de Funciones" 
        width="1544" 
        height="923">
