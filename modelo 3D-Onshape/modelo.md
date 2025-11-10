@@ -2,52 +2,45 @@
 
 ## 1. Parte Delantera
 
-![Parte Delantera Ñawi Apu](parte_delantera1.png)
+![Parte Delantera Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/parte_delantera1.png?raw=true)
+![Parte Delantera Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/parte_delantera1.1.png?raw=true)
 
-La **parte delantera** del conector Ñawi Apu fue diseñada en **Onshape** con el propósito de alojar el grabado principal y definir la forma frontal del componente.  
-Esta sección incluye detalles estéticos como el relieve del ave y la tortuga dentro de un óvalo, además del texto **“ÑAWI APU”**, que representan la identidad visual del proyecto.
+La **parte delantera** define la forma principal del conector y contiene el grabado decorativo con el texto **“ÑAWI APU”**, que combina simbolismo cultural y diseño técnico.  
 
-### Características principales:
-- Contiene el **diseño frontal** visible del conector.  
-- Integra los **pines de conexión** o puntos de acople.  
-- Presenta **bordes suavizados** para un acabado más ergonómico.  
-- Compatible con versiones `parte_delantera1` y `parte_delantera1.1`.
+**Características:**
+- Diseño frontal con relieve estético.  
+- Pines de conexión integrados.  
+- Bordes suavizados para un mejor acabado.  
 
 ---
 
 ## 2. Parte Trasera
 
-![Parte Trasera Ñawi Apu](partetrasera1.png)
+![Parte Trasera Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/parte_trasera1.png?raw=true)
+![Parte Trasera Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/parte_trasera1.1.png?raw=true)
 
-La **parte trasera** complementa estructuralmente al modelo, actuando como **carcasa protectora** del interior del conector.  
-Su diseño asegura una correcta unión con la parte delantera y proporciona estabilidad mecánica.
+La **parte trasera** actúa como carcasa protectora, uniendo el conjunto y dando soporte al sistema interno.  
 
-### Características principales:
-- Funciona como **cubierta posterior** del conjunto.  
-- Incluye **superficies planas de ensamble** y puntos de unión precisos.  
-- Optimizada para impresión 3D o ensamblaje mecánico.  
-- Versiones disponibles: `partetrasera1` y `partetrasera1.1`.
+**Características:**
+- Cubierta posterior con puntos de fijación.  
+- Orificios para ventilación del Raspberry.    
 
 ---
 
 ## 3. Sombrero
 
-![Sombrero Ñawi Apu](sombrero1.png)
-![Sombrero Ñawi Apu](sombrero1.png)
+![Sombrero Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/sombrero.png?raw=true)
+![Sombrero Ñawi Apu](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/modelo%203D-Onshape/imagenes/sombrero%201.1.png?raw=true)
 
-El **sombrero** es la pieza superior del conjunto Ñawi Apu.  
-Su función principal es **proteger la zona superior del conector** y aportar rigidez al ensamble general.  
-Además, completa la estética del diseño, aportando un acabado uniforme y funcional.
+El **sombrero** es la pieza superior del conjunto, aportando rigidez y protección, además de servir como soporte para los **paneles solares**.  
 
-### Características principales:
-- Diseñado para **encajar con precisión** en la parte superior del conector.  
-- Aporta **refuerzo estructural** y **protección**.  
-- Compatible con versiones `sombrero1` y `sombrero1.1`.  
-- Su geometría está optimizada para **fabricación aditiva**.
+**Características:**
+- Encaje preciso en la parte superior.  
+- Refuerzo estructural.  
+- Soporte para paneles solares.  
 
 ---
 
 ## Conclusión
 
-El conjunto **Ñawi Apu** está formado por tres piezas principales: la parte delantera, la parte trasera y el sombrero.  
-Cada una cumple un rol específico en términos de **funcionalidad, estética y ensamblaje**, logrando un equilibrio entre **diseño técnico y valor cultural**.
+El modelo **Ñawi Apu** integra tres piezas —delantera, trasera y sombrero— que combinan **funcionalidad, estética y valor cultural**, optimizadas para **fabricación aditiva**.
