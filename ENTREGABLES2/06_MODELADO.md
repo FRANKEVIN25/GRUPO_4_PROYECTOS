@@ -1,4 +1,4 @@
-# Proyecto 3D: Conector Ñawi Apu
+# Proyecto 3D: Ñawi Apu
 
 ## 1. Parte Delantera
 
