@@ -1,6 +1,6 @@
 <h1 align="center">BOCETOS</h1>
 
-<h2 align="center">Boceto 1</h2>
+<h2 align="center">Boceto Ganador</h2>
 <p align="center">
   <a href="https://github.com/user-attachments/files/23464674/20251109035920188.pdf">
     20251109035920188.pdf
