@@ -9,7 +9,7 @@
 
 <h3 align="center">FUNDAMENTOS DE DISEÑO – GRUPO 6</h3>
 
-##  🐢 Sistema de Monitoreo para la Eclosión de Tortugas Marinas
+##  🐢 Sistema de Monitoreo para huevos de especies costeras
 
 <p align="center">
   <img src="Fundamentos_De_Diseño/Imagenes/tortuga.webp" alt="Imagen referencial" width="400px" />
@@ -20,7 +20,7 @@
 
 ¡Bienvenidos al sitio oficial de nuestro proyecto!
 
-Este trabajo fue desarrollado como parte del curso Fundamentos de Diseño, con el objetivo de responder a una problemática ambiental urgente: la alta mortalidad de crías de tortugas marinas en las playas del litoral norte del Perú, debido a la falta de detección oportuna de la eclosión.
+Este trabajo fue desarrollado como parte del curso Proyectos de Ingenieria, con el objetivo de responder a una problemática ambiental urgente: la alta mortalidad de crías de tortugas marinas y gaviotin peruano en las playas del litoral norte y costa del Perú, debido a la falta de detección oportuna de la eclosión.
 
 Inspirados en el ODS 14: Vida Submarina, buscamos contribuir a la conservación de los ecosistemas marinos mediante una solución que permita a los cuidadores y voluntarios intervenir a tiempo durante el nacimiento de las crías, aumentando así sus probabilidades de supervivencia.
 
@@ -37,7 +37,7 @@ Inspirados en el ODS 14: Vida Submarina, buscamos contribuir a la conservación 
 
 
 ## 🌟 Misión
-Desarrollar una herramienta tecnológica accesible que permita detectar, de manera automatizada y oportuna, el momento de eclosión de tortugas marinas en nidos naturales, para alertar a los cuidadores responsables y facilitar una intervención inmediata.
+Desarrollar una herramienta tecnológica accesible que permita detectar, de manera automatizada y oportuna, el momento de eclosión de tortugas marinas y gaviotines peruanos en nidos naturales, para alertar a los cuidadores responsables y facilitar una intervención inmediata.
 
 
 ## 👁️ Visión
@@ -56,19 +56,21 @@ Convertirnos en un referente en el uso de tecnología para la conservación de e
 
 
 ## 🎯 Objetivo general del proyecto
-Diseñar un sistema automatizado de detección y alerta temprana que permita identificar el momento en que las tortugas marinas comienzan a emerger de sus nidos, facilitando una respuesta rápida por parte del personal encargado de su protección.
+Diseñar un sistema automatizado de detección y alerta temprana que permita identificar el momento en que las tortugas marinas y gaviotines peruanos comiencen a emerger de sus nidos, facilitando una respuesta rápida por parte del personal encargado de su protección.
 
 ## ✅ Objetivo específico
-Implementar una solución tecnológica basada en sensores y visión artificial que active una alerta remota cuando se detecte el nacimiento de tortugas marinas en playas de anidación del norte peruano.
+Implementar una solución tecnológica basada en sensores y visión artificial que active una alerta remota cuando se detecte el nacimiento de tortugas marinas en playas de anidación del norte peruano y en zonas costeras de anidación de gaviotines peruanos.
 
 ## 📌 Justificación
 Las crías de tortuga marina enfrentan múltiples amenazas al momento de eclosionar, como la desorientación por luz artificial, los depredadores y la interferencia humana. En muchas playas del norte del Perú, donde se ha identificado recientemente la presencia de nidos, no existen mecanismos que permitan detectar de manera oportuna este evento.
 
-Este proyecto propone una solución tecnológica accesible que permita activar una alerta inmediata cuando ocurre una eclosión, facilitando una respuesta rápida por parte de los cuidadores. De esta forma, se busca incrementar la tasa de supervivencia de las tortugas y contribuir a los esfuerzos de conservación en zonas vulnerables.
+De manera similar, los nidos de gaviotines peruanos en zonas costeras también están expuestos a diversas amenazas, entre ellas la depredación por especies invasoras, el tránsito de vehículos y otras perturbaciones humanas que comprometen el éxito reproductivo de la especie.
+
+Este proyecto propone una solución tecnológica accesible que permita activar una alerta inmediata cuando ocurre una eclosión, ya sea de tortugas marinas o de gaviotines peruanos, facilitando una respuesta rápida por parte de los cuidadores. De esta forma, se busca incrementar la tasa de supervivencia y contribuir a los esfuerzos de conservación en estas zonas altamente vulnerables.
 
 
 ## 💡 ¿Qué es lo que nos impulsa?
-Nos motiva el deseo de proteger a una de las especies más emblemáticas y amenazadas del ecosistema marino peruano. Queremos brindar a los voluntarios de conservación una herramienta útil, fácil de usar y eficaz, que marque una diferencia real en el momento más crítico del ciclo de vida de las tortugas: su nacimiento.
+Nos motiva el deseo de proteger a unas de las especies más emblemáticas y amenazadas del ecosistema marino peruano. Queremos brindar apoyo a los encargados de conservación una herramienta útil, fácil de usar y eficaz, que marque una diferencia real en el momento más crítico del ciclo de vida de las especies: su nacimiento.
 
 ## 🧑‍💻 ¿Quiénes somos?
 
