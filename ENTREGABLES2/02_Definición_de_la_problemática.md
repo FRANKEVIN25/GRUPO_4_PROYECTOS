@@ -36,7 +36,7 @@ A estas amenazas se suma otro desafío crucial para la conservación de las tort
 Por otro lado, y aunque aún es poco cuantificada en muchas regiones, estudios recientes en Australia han evidenciado que más del 30 % de las crías pueden ser depredadas durante este trayecto, siendo los cangrejos fantasmas uno de los principales responsables. (4) Esto sugiere que, incluso con un éxito razonable de eclosión, la supervivencia final de las crías puede verse drásticamente reducida sin medidas de protección oportuna. Ante esta realidad, se refuerza la urgencia de implementar soluciones que permitan monitorear y proteger de forma más efectiva el momento de la eclosión.
 
 <p align="center">
-  <img src="../Imagenes/1.4)figura2.png" alt="FIGURA 2 - Tortuga en Teopa" width="600">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.4)figura2.png" alt="FIGURA 2 - Tortuga en Teopa" width="600">
 </p>
 
 <p align="center"><strong>FIGURA 2</strong><br>
