@@ -115,13 +115,13 @@ Un ejemplo concreto de este impacto económico se evidenció en agosto de 2024, 
 
 ## V) MAPA DE VIAJE
 
-![MAPA DE VIAJE](../Imagenes/1.3\)journey_map.png)
+![MAPA DE VIAJE](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.2diagrama_ishikawa.png)
 
 ---
 
 ## VI) DIAGRAMA DE ISHIKAWA
 
-![DIAGRAMA DE ISHIKAWA](../Imagenes/1.2\)diagrama_ishikawa.png)
+![DIAGRAMA DE ISHIKAWA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.2diagrama_ishikawa.png)
 
 
 ---
