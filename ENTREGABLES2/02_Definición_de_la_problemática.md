@@ -57,7 +57,7 @@ Además, investigaciones recientes han revelado que la depredación no siempre o
 Aunque en zonas altamente protegidas como Diego García se ha observado que estas amenazas no han impedido el aumento del número de anidaciones, ello se atribuye a la protección estricta de los nidos frente a la intervención humana. Sin embargo, en contextos donde esta protección es limitada o inexistente, la depredación natural —por sí sola o en combinación con otros factores— sí puede representar una amenaza significativa para la recuperación de poblaciones vulnerables.
 
 <p align="center">
-  <img src="../Imagenes/figura4.webp" alt="FIGURA 4 - Evidencia" width="600">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.5)figura4.png" alt="FIGURA 4 - Evidencia" width="600">
 </p>
 
 <p align="center"><strong>FIGURA 4</strong><br>
@@ -80,7 +80,7 @@ Además de las amenazas naturales, las crías de tortugas también enfrentan rie
 Por otro lado, El Plan Nacional para la Conservación de las Tortugas Marinas (MINAM, 2019) identificó como otro factor el cambio climático , ya que este puede tener efectos significativos sobre el éxito reproductivo de estas especies, al alterar variables como la estabilidad de las playas y la temperatura de incubación. Según el documento, influyen directamente en la viabilidad de los embriones y en la proporción de sexos en las crías. No obstante, también se señala que en el país no se cuenta con información precisa sobre los efectos reales del cambio climático en las poblaciones locales de tortugas marinas, y que existe la necesidad urgente de realizar investigaciones específicas para comprender estos impactos y diseñar medidas de mitigación adecuadas. (8)
 
 <p align="center">
-  <img src="../Imagenes/1.6)figura5.png" alt="FIGURA 5 - Ciclo de vida" width="600">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.6)figura5.png" alt="FIGURA 5 - Ciclo de vida" width="600">
 </p>
 
 <p align="center"><strong>FIGURA 5</strong><br>
@@ -93,7 +93,7 @@ En el Perú, organismos oficiales como la Dirección Regional de Comercio Exteri
 En las regiones de Piura y Tumbes, ubicadas en el norte del Perú, se ha desarrollado en los últimos años una creciente actividad turística vinculada a las tortugas marinas, especialmente en zonas como El Ñuro, Los Órganos, Máncora y Cancas. En estos lugares, visitantes nacionales y extranjeros participan en actividades de observación y nado con tortugas verdes (Chelonia mydas), generando ingresos locales y dinamizando la economía regional. Desde aproximadamente el año 2014, se ha registrado un aumento sostenido en el número de turistas que llegan para interactuar con estas especies, a pesar de la falta de regulación en dichas prácticas. Esta situación resalta tanto el potencial económico de las tortugas marinas, como la urgencia de implementar medidas de monitoreo y conservación que aseguren la sostenibilidad de este recurso natural. (9)
 
 <p align="center">
-  <img src="../Imagenes/1.7)figura6.png" alt="FIGURA 6 - Mapa turístico" width="600">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.7)figura6.png" alt="FIGURA 6 - Mapa turístico" width="600">
 </p>
 
 <p align="center"><strong>FIGURA 6</strong><br>
@@ -107,7 +107,7 @@ Un ejemplo concreto de este impacto económico se evidenció en agosto de 2024, 
 
 ## IV) MAPA DE EMPATÍA
 
-![MAPA DE EMPATÍA](../Imagenes/1.1\)mapa_empatia.png)
+![MAPA DE EMPATÍA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.1)mapa_empatia.png)
 
 ---
 
