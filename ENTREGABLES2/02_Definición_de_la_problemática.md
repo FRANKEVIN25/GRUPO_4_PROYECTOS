@@ -1,7 +1,7 @@
 # 🌊 ODS 14: Vida Submarina
 
 <p align="center">
-  <img src="../Imagenes/1.0)ods14.png" alt="FIGURA 1 - ODS 14" width="600">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.0)ods14.png" alt="FIGURA 1 - ODS 14" width="600">
 </p>
 
 <p align="center"><strong>FIGURA 1</strong><br>
