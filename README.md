@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-<h3 align="center">FUNDAMENTOS DE DISEÑO – GRUPO 6</h3>
+<h3 align="center">PROYECTOS PARA INGENIERIA – GRUPO 4</h3>
 
 ##  🐢 Sistema de Monitoreo para huevos de especies costeras
 
