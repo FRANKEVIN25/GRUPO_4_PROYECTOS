@@ -107,7 +107,7 @@ Un ejemplo concreto de este impacto económico se evidenció en agosto de 2024, 
 
 ## IV) MAPA DE EMPATÍA
 
-![MAPA DE EMPATÍA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.1.png)
+![MAPA DE EMPATÍA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.1)mapa_empatia.png)
 
 ---
 
