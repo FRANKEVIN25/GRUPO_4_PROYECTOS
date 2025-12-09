@@ -121,7 +121,7 @@ Un ejemplo concreto de este impacto económico se evidenció en agosto de 2024, 
 
 ## VI) DIAGRAMA DE ISHIKAWA
 
-![DIAGRAMA DE ISHIKAWA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/1.2diagrama_ishikawa.png)
+![DIAGRAMA DE ISHIKAWA](https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/diagrama%20de%20ishikawa2.jpg)
 
 
 ---
