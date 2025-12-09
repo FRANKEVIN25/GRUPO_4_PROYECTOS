@@ -12,7 +12,7 @@ Técnicamente, este radar funciona emitiendo pulsos electromagnéticos muy breve
 (1)
 
 <p align="center">
-  <img src="../Imagenes/3.1.Patente1.png" alt="patente1" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.1.Patente1.png">
 </p>
 
 
@@ -35,7 +35,7 @@ En ese contexto, el MLX90614 es un sensor infrarrojo sin contacto que permite me
 
 
 <p align="center">
-  <img src="../Imagenes/3.2.Producto1.png" alt="producto1" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.2.Producto1.png">
 </p>
 
 
@@ -50,7 +50,7 @@ Esta patente describe una lámpara marina automatizada diseñada para guiar a la
 La luz se activa de forma autónoma y está pensada para aprovechar el instinto natural de las tortugas recién nacidas de seguir fuentes de luz. Al colocar esta lámpara flotante en el mar (en lugar de tener luz en la playa que las desoriente), se crea un punto de atracción seguro que guía a las crías directamente hacia el océano, ayudando a reducir la mortalidad en esa etapa crítica.(4)
 
 <p align="center">
-  <img src="../Imagenes/3.3.Patente2.png" alt="patente2" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.3.Patente2.png">
 </p>
 
 
@@ -72,7 +72,7 @@ TurtleLite LED de EncapSulite es una luminaria comercial diseñada especialmente
 Está construida con materiales resistentes al ambiente marino (acero inoxidable, carcasa sellada IP67) y cuenta con módulos LED duraderos que garantizan bajo consumo y larga vida útil. Su diseño ha sido certificado por la Comisión de Vida Silvestre de Florida (FWC), lo que respalda su eficacia como una solución real y comprobada para minimizar el impacto de la iluminación artificial en playas de anidación.(6)
 
 <p align="center">
-  <img src="../Imagenes/3.4.Producto2.png" alt="producto2" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.4.Producto2.png">
 </p>
 
 
@@ -87,7 +87,7 @@ Esta patente describe un dispositivo mecánico de limpieza de playas especialmen
 Además, deja la arena completamente nivelada y sin huecos, lo cual es crucial para que las crías de tortugas puedan desplazarse sin obstáculos hacia el mar, aumentando sus probabilidades de supervivencia.(7)
 
 <p align="center">
-  <img src="../Imagenes/3.5.Patente3.png" alt="patente3" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.5.Patente3.png">
 </p>
 
 
@@ -107,7 +107,7 @@ BeBot es un robot eléctrico, pero también funciona con paneles solares creados
 Utiliza un sistema de rastrillado con púas que operan solo en los primeros 8–10 cm de arena, nivelando la superficie y dejando la playa libre de escombros, sin compactar los estratos más profundos. Esto ayuda a preservar los nidos enterrados a 30 cm de profundidad, manteniendo intacto el hábitat de eclosión y permitiendo que las crías se desplacen sin obstáculos.(9)
 
 <p align="center">
-  <img src="../Imagenes/3.6.Producto3.png" alt="producto3" width="60%">
+  <img src="https://github.com/FRANKEVIN25/GRUPO_4_PROYECTOS/blob/main/Fundamentos_De_Dise%C3%B1o/Imagenes/3.6.Producto3.png">
 </p>
 
 ---
